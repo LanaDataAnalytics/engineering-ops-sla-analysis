@@ -2,7 +2,7 @@
 End-to-end ELT data pipeline analyzing engineering velocity, SLA breaches, and workflow bottlenecks using Python, BigQuery, and Power BI.
 
 ## Project Overview
-This project is an end-to-end **ELT (Extract, Load, Transform)** pipeline designed to analyze engineering velocity and bottleneck metrics for a major open-source repository. Transitioning beyond basic volume metrics, this project focuses on process efficiency, Service Level Agreement (SLA) breaches, and identifying Key Person Dependencies in the pull request review cycle.
+This project is an end-to-end **ELT (Extract, Load, Transform)** pipeline designed to analyze engineering velocity and bottleneck metrics for facebook/react, one of the most widely-used open-source JavaScript libraries — chosen for its high issue/PR volume and active maintainer base. Transitioning beyond basic volume metrics, this project focuses on process efficiency, Service Level Agreement (SLA) breaches, and identifying Key Person Dependencies in the pull request review cycle.
 
 ## Architecture & Tech Stack
 This project mimics a modern modern data stack workflow:
