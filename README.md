@@ -18,7 +18,10 @@ This project mimics a modern modern data stack workflow:
 
 ## Key Insights Discovered
 * **The "Average" Illusion:** While the average resolution time looks healthy at under 10 days, the P90 metric proves that the slowest 10% of tickets are taking nearly a month to resolve, indicating severe blockers on complex issues.
-* **Improving Velocity:** The SLA Breach trend line shows a massive operational improvement from November to February, dropping from a 60% breach rate down to nearly 0%. 
+* **Improving Velocity:** The SLA Breach trend line shows a massive operational improvement from November to February, dropping from a 60% breach rate down to nearly 0%.
+  
+## The Visualization
+![SLA Chart](assets/dashboard.png)
 
 ## Repository Contents
 * `extract_github_data.py`: The Python script used to interact with the GitHub API.
